@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "blood-bank-inventory",
+    "slug": "donation-store-management",
+    "plugins": [
+      "expo-asset",
+      "expo-web-browser"
+    ],
+    "scheme": "com.googleusercontent.apps.635500458464-knq0d9glkhikh6oq0k3ll4mf4ugem2bp",
+    "android": {
+      "package": "com.bloodbank.inventory"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bloodbank.inventory"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e62813cb-6d87-4e56-a4e1-e37939febdce"
+      }
+    },
+    "owner": "alexfekrys-organization"
+  }
+}
